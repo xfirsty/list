@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Contoh App",
+    "packageName": "com.example.app",
+    "versionCode": 1,
+    "versionName": "1.0",
+    "apkUrl": "https://github.com/USERNAME/REPOSITORY/releases/download/v1.0/app.apk",
+    "iconUrl": "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/icons/app.png",
+    "description": "Aplikasi contoh untuk pengujian TV Store."
+  },
+  {
+    "name": "Contoh Media Player",
+    "packageName": "com.example.mediaplayer",
+    "versionCode": 3,
+    "versionName": "1.2",
+    "apkUrl": "https://github.com/USERNAME/REPOSITORY/releases/download/v1.2/media-player.apk",
+    "iconUrl": "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/icons/media-player.png",
+    "description": "Contoh aplikasi media player untuk Android TV."
+  }
+]
