@@ -1,10 +1,10 @@
 [
   {
-    "name": "Contoh App",
+    "name": "Wifi quick login",
     "packageName": "com.example.app",
     "versionCode": 1,
     "versionName": "1.0",
-    "apkUrl": "https://github.com/USERNAME/REPOSITORY/releases/download/v1.0/app.apk",
+    "apkUrl": "https://github.com/xfirsty/list/releases/download/rilis/6WiFi.Quick.Login_1.6.4_APKPure.1.apk",
     "iconUrl": "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/icons/app.png",
     "description": "Aplikasi contoh untuk pengujian TV Store."
   },
