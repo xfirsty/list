@@ -1,0 +1,341 @@
+{
+  "schema_version": 1,
+  "apps": [
+    {
+      "id": "support",
+      "name": "WA 0851 7977 4140",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "DopamineTV",
+      "name": "DopamineTV",
+      "version": 3,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://www.dropbox.com/scl/fi/wofuwmjjzwmkhafcgro4a/DopamineTV.apk?rlkey=xsud2ykpmd7vde0g9llfyu3tu&st=ciaxd62t&dl=1"
+    },
+    {
+      "id": "ION A6",
+      "name": "ION TV SUPPORT A6",
+      "version": 1,
+      "added_date": "2026-09-27",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://www.dropbox.com/scl/fi/iklt035j477yzh677rfxa/ION-TV.apk?rlkey=pipceuut9linmrbhp6uwiz66w&st=d93nsk96&dl=1"
+    },
+    {
+      "id": "ION A12",
+      "name": "ION TV",
+      "version": 1,
+      "added_date": "2026-09-27",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://www.dropbox.com/scl/fi/qhem46uhnzj4vfecymvaf/ION-TV-OS12.apk?rlkey=t4l1di77uhq8ticpfdd734hi5&st=dg5xqcx3&dl=1"
+    },
+    {
+      "id": "GvisionTvLITE",
+      "name": "GvisionTv LITE",
+      "version": 1,
+      "added_date": "2026-09-27",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://www.dropbox.com/scl/fi/sifnhf025u6m571fv147l/GVISION-LITE-V3.apk?rlkey=5npqps3in8a702jqdqqtk2m0u&st=nkxrmkti&dl=1"
+    },
+    {
+      "id": "NamaAplikasiBaru4",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru5",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru6",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru7",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru8",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru9",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru10",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru11",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru12",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru13",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru14",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru15",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru16",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru17",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru18",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru19",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru20",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru21",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru22",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru23",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru24",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru25",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru26",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru27",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru28",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru29",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru30",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru31",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru32",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru33",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru34",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru35",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru36",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru37",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru38",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru39",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    },
+    {
+      "id": "NamaAplikasiBaru40",
+      "name": "COMING SOON",
+      "version": 1,
+      "added_date": "2026-09-24",
+      "is_new_override": false,
+      "apk_drive_file_id": "https://link-download-apk-anda.com/app.apk"
+    }
+  ]
+}
